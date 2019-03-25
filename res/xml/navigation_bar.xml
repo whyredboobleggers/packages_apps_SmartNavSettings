@@ -49,7 +49,7 @@
             android:key="default_settings"
             android:title="@string/default_settings"
             android:summary="@string/default_settings_summary"
-            android:fragment="com.bootleggers.dumpster.fragment.NavBarSettings"/>
+            android:fragment="com.bootleggers.dumpster.fragments.NavBarSettings"/>
 
         <Preference
             android:key="swipeup_gesture_settings"
